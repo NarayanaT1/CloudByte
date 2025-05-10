@@ -1,0 +1,22 @@
+# Node
+node_modules/
+.next/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Env and credentials
+.env
+.env.local
+.env.production
+secrets.json
+*.key
+*.pem
+
+# Logs and data
+*.log
+logs/
+tmp/
